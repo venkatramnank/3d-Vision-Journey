@@ -17,4 +17,4 @@ This journey splits into 4 parts:
 3. Pytorch (coding)
 4. Getting in hand with latest research (res)
 
-[Introduction and scourging around (IGHD)](3D%20Vision%20Journey%20to%20passion%2037ce321b3ee546daa4addffbf12e23f2/Introduction%20and%20scourging%20around%20(IGHD)%2030897ef0411240a2a41dbcbc350831fa.md)
+[Introduction and scourging around (IGHD)]((https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/Introduction%20and%20scourging%20around%20(IGHD)%2030897ef0411240a2a41dbcbc350831fa.md)https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/Introduction%20and%20scourging%20around%20(IGHD)%2030897ef0411240a2a41dbcbc350831fa.md)
