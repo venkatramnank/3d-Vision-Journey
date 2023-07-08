@@ -17,4 +17,4 @@ This journey splits into 4 parts:
 3. Pytorch (coding)
 4. Getting in hand with latest research (res)
 
-[Introduction and scourging around (IGHD)]((https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/Introduction%20and%20scourging%20around%20(IGHD)%2030897ef0411240a2a41dbcbc350831fa.md)https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/Introduction%20and%20scourging%20around%20(IGHD)%2030897ef0411240a2a41dbcbc350831fa.md)
+
