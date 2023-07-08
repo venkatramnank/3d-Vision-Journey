@@ -2,7 +2,7 @@
 title: Journey into 3D computer vision
 ---
 
-# 3D Vision : Journey to passion
+# 3D Vision : Journey into 3D Vision
 
 Date : July 8 2023
 
