@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Journey into 3D computer vision
 ---
 
