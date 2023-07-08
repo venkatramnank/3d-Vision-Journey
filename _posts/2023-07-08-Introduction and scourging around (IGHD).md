@@ -74,6 +74,3 @@ In the volumetric representation, each image is solid and made of voxels: the 3D
 - Pytorch 3D: https://www.youtube.com/watch?v=MOBAJb5nJRI  and https://pytorch3d.org/
 
 
-```python
-
-```
