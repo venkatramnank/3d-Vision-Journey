@@ -1,4 +1,4 @@
-# Introduction and starting off by scourging around resources
+# Introduction and starting off by scourging around resources (in Progress!!!)
 
 The first post I read about introduction about 3D is here: https://towardsdatascience.com/intro-to-3d-deep-learning-e992f7efa6ee. 
 
