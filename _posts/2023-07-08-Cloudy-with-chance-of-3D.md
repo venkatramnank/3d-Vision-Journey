@@ -16,7 +16,7 @@ We need to open3d library.
 $ pip install open3d
 ```
 
->**_NOTE:_**  If you run across the ImportError in open3d in a mac, use the following fix ``` brew install libomp ```.
+> **_NOTE:_**  If you run across the ImportError in open3d in a mac, use the following fix ``` brew install libomp ```.
 
 
 ```python
