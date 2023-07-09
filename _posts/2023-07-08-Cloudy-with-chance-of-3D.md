@@ -182,7 +182,7 @@ A much commonly known dataset is http://3dvision.princeton.edu/projects/2014/3DS
 (From Wikipedia) OFF (Object File Format) is a geometry definition file format containing the description of the composing polygons of a geometric object. It can store 2D or 3D objects, and simple extensions allow it to represent higher-dimensional objects as well.Though originally developed for Geomview, a geometry visualization software, other software has adapted the simple standard.
 
 Let us see one of these files. 
-> **__NOTE__**: the code is shamelessly stolen from : https://github.com/nikitakaraevv/pointnet/blob/master/nbs/PointNetClass.ipynb
+> **_NOTE_:**: the code is shamelessly stolen from : https://github.com/nikitakaraevv/pointnet/blob/master/nbs/PointNetClass.ipynb
 
 
 ```python
