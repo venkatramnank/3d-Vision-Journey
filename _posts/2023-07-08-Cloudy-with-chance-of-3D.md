@@ -7,7 +7,7 @@ Righto !! This is my attempt to learn from various websites and resources (linke
 “A Point Cloud is an unordered set of 3 dimensional points in a frame of reference (Cartesian coordinate system) on the surface of objects.”
 
 
-$$ P = {(x_{i}, y_{i}, z_{i}) \ | \ i \in N} $$
+$$P = {(x_{i}, y_{i}, z_{i}) \ | \ i \in N}$$
 
 
 Each point represents a single spatial measurement on the object's surface. Taken together, a point cloud represents the entire external surface of an object. Point clouds are obtained using 3D scanners (like LIDAR).
