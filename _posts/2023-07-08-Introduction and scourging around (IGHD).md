@@ -33,7 +33,8 @@ plt.imshow(img)
 
     
 ![(output_3_1.png)](https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/images/dog.jpg)
-    
+
+<img src="{{site.baseurl | prepend: site.url}}_posts/images/dog.jpg" alt="Untitled" />
 
 
 ```python
