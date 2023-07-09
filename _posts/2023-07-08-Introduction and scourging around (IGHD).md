@@ -29,9 +29,9 @@ plt.imshow(img)
     <matplotlib.image.AxesImage at 0x123d5d4b0>
 
 
-<img src="{{site.baseurl | prepend: site.url}}_posts/images/dog.jpg" alt="Untitled" />
+<img src="{{site.baseurl | prepend: site.url}}images/output_3_1.png" alt="Untitled" />
 
-<img src="{{ "/assets/Untitled.png" | prepend: site.baseurl | prepend: site.url}}" alt="Untitled" />
+
 
 <img src="https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/images/dog.jpg" alt="Untitled" />
 
