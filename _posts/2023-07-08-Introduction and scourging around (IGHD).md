@@ -33,8 +33,6 @@ plt.imshow(img)
 
 
 
-<img src="https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/images/dog.jpg" alt="Untitled" />
-
 
 ```python
 img.shape # here (height, width, channels)
