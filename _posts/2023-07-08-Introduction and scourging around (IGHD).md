@@ -32,7 +32,7 @@ plt.imshow(img)
 
 
     
-![(output_3_1.png)](images/dog.jpg)
+![(output_3_1.png)](https://github.com/venkatramnank/3d-Vision-Journey/blob/main/_posts/images/dog.jpg)
     
 
 
