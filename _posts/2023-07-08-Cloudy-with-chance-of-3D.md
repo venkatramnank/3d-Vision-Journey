@@ -6,7 +6,9 @@ Righto !! This is my attempt to learn from various websites and resources (linke
 ### What are point clouds?
 “A Point Cloud is an unordered set of 3 dimensional points in a frame of reference (Cartesian coordinate system) on the surface of objects.”
 
-$$ P = {(x_{i}, y_{i}, z_{i}) \ | \ i \in N} $$
+$$ 
+P = {(x_{i}, y_{i}, z_{i}) \ | \ i \in N}
+$$
 
 Each point represents a single spatial measurement on the object's surface. Taken together, a point cloud represents the entire external surface of an object. Point clouds are obtained using 3D scanners (like LIDAR).
 
@@ -183,7 +185,7 @@ A much commonly known dataset is http://3dvision.princeton.edu/projects/2014/3DS
 (From Wikipedia) OFF (Object File Format) is a geometry definition file format containing the description of the composing polygons of a geometric object. It can store 2D or 3D objects, and simple extensions allow it to represent higher-dimensional objects as well.Though originally developed for Geomview, a geometry visualization software, other software has adapted the simple standard.
 
 Let us see one of these files. 
-> **__Note__**: the code is shamelessly stolen from : https://github.com/nikitakaraevv/pointnet/blob/master/nbs/PointNetClass.ipynb
+> **__NOTE__**: the code is shamelessly stolen from : https://github.com/nikitakaraevv/pointnet/blob/master/nbs/PointNetClass.ipynb
 
 
 ```python
