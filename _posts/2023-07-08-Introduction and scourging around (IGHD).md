@@ -32,7 +32,7 @@ plt.imshow(img)
 
 
     
-![(output_3_1.png)](images/dog.JPG)
+![(output_3_1.png)](images/dog.jpg)
     
 
 
