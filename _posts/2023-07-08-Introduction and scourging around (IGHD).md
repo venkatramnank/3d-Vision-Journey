@@ -34,7 +34,7 @@ plt.imshow(img)
     
 ![(output_3_1.png)](images/dog.jpg)
     
-
+<a href="images/dog.jpg">
 
 
 ```python
