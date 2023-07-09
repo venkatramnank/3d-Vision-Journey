@@ -83,7 +83,7 @@ o3d.visualization.draw_geometries([mesh])
 
 Looks like some weird Armadillo man. Well, whatever. Wait, it looks like a **Pokemon** !!!
 
-![armadillo3d.png](attachment:armadillo3d.png)
+![armadillo3d.png](armadillo3d.png)
 
 Let us see what this mesh variable actually looks like.
 
