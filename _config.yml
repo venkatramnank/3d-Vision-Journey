@@ -8,10 +8,3 @@ url: 'https://venkatramnank.github.io/' # your main domain
 baseurl: '3d-Vision-Journey/'
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
