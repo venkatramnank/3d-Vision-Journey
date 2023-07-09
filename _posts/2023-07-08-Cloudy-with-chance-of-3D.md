@@ -62,7 +62,8 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+
+<img src="{{site.baseurl | prepend: site.url}}_posts/output_4_0.png" alt="Untitled" />
     
 
 
@@ -83,7 +84,9 @@ o3d.visualization.draw_geometries([mesh])
 
 Looks like some weird Armadillo man. Well, whatever. Wait, it looks like a **Pokemon** !!!
 
-![armadillo3d.png](armadillo3d.png)
+
+
+<img src="{{site.baseurl | prepend: site.url}}_posts/armadillo3d.png" alt="Untitled" />
 
 Let us see what this mesh variable actually looks like.
 
@@ -168,9 +171,9 @@ plt.show()
 
 
     
-![png](output_20_0.png)
-    
 
+
+<img src="{{site.baseurl | prepend: site.url}}_posts/output_20_0.png" alt="Untitled" />
 
 ## A very famous dataset
 
