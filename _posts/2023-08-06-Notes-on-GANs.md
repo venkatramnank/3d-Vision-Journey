@@ -1,3 +1,4 @@
+
 # Notes for GAN
 
 Date: Aug 6 2023
